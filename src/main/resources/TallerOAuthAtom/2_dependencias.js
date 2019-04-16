@@ -1,3 +1,5 @@
+//Pueden revisar spring boot la seccion de Spring Security, ahi viene el nombre de la dependencia para spring security oauth2 y JWT, se busca en maven repository y resulta esto
+
 <!-- https://mvnrepository.com/artifact/org.springframework.security.oauth/spring-security-oauth2 -->
 		<dependency>
 			<groupId>org.springframework.security.oauth</groupId>
